@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sudo xrdp-sesman -nodaemon &
-sudo xrdp -nodaemon &
+sudo xrdp-sesman --nodaemon &
+sudo xrdp --nodaemon &

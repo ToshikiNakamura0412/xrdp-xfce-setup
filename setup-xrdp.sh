@@ -7,7 +7,6 @@ sudo apt-get update && sudo apt-get install -y --no-install-recommends \
   xfce4-terminal \
   dbus-x11 \
   xorgxrdp \
-  xserver-xorg-core \
   xserver-xorg-input-all \
   x11-xserver-utils
 

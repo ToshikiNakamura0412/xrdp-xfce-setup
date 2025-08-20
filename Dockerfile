@@ -17,7 +17,6 @@ WORKDIR /home/${USERNAME}
 
 COPY setup-xrdp.sh ./
 COPY start-xrdp.sh ./
-COPY clean-xrdp.sh ./
 
 RUN ./setup-xrdp.sh
 

@@ -35,6 +35,6 @@ git clone https://github.com/ToshikiNakamura0412/xrdp-xfce-setup.git
     docker run --rm -it -p 4389:3389 ubuntu-xrdp
     ```
 
-2. Connect to XRDP using a remote desktop client (like Windows App, etc.):
+2. Connect to XRDP using a remote desktop client (e.g., Windows App):
     - Connect to `localhost:4389`
     - Login with username `user` and password `user`
